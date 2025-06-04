@@ -1,5 +1,5 @@
 ### About Me
-I'm a recent graduate from Duquesne University in Pittsburgh, PA, where I earned a **B.S. in Biomedical Engineering** and a **B.A. in Computer Science**. I’m currently working as an **Embedded Software Engineering Intern** at **Philips Respironics**.
+I'm a recent graduate from Duquesne University in Pittsburgh, PA, where I earned a B.S. in Biomedical Engineering and a B.A. in Computer Science. I’m currently working as an Embedded Software Engineering Intern at Philips Respironics.
 
 ## Interests & Focus
 - Embedded Systems
