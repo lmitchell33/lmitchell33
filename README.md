@@ -1,5 +1,11 @@
 ### About Me
-I recently graduated with a B.S. Biomedical Engineering & B.A. Computer from Duquesne University in Pittsburgh PA. I am currently working as an Emedded Software Engineering Intern for the Embedded Software Team at Philips Respironics. I am interested in robotics, embedded systems, and the IoT. 
+I'm a recent graduate from Duquesne University in Pittsburgh, PA, where I earned a **B.S. in Biomedical Engineering** and a **B.A. in Computer Science**. I’m currently working as an **Embedded Software Engineering Intern** at **Philips Respironics**.
+
+## Interests & Focus
+- Embedded Systems
+- Robotics and Autonomous Systems  
+- Internet of Things   
+- Sensor Integration
 
 <!--
 **lmitchell33/lmitchell33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
