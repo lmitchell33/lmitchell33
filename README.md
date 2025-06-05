@@ -3,7 +3,8 @@ I'm a recent graduate from Duquesne University in Pittsburgh, PA, where I earned
 
 ## Interests & Focus
 - Embedded Systems
-- Robotics and Autonomous Systems  
+- Robotics
+- Automation  
 - Internet of Things   
 - Sensor Integration
 
