@@ -1,12 +1,17 @@
-### About Me
-I'm a recent graduate from Duquesne University in Pittsburgh, PA, where I earned a B.S. in Biomedical Engineering and a B.A. in Computer Science. I’m currently working as an Embedded Software Engineering Intern at Philips Respironics.
+# Hi, I'm Lucas Mitchell
+I am a hardworking engineer passionate about building systems where hardware and software meet. 
 
 ## Interests & Focus
 - Embedded Systems
 - Robotics
 - Automation  
-- Internet of Things   
-- Sensor Integration
+- Internet of Things
+
+## Tech Stack
+**Languages:** Python, C/C++, C#, MATLAB
+**Frameworks, Tools, & Middleware:** ESP-IDF, ROS 2, PyTorch, Flask, React
+**Hardware:** ESP32, Raspberry Pi, Arduino, Pixhawk  
+**DevOps:** Docker, GitHub Actions
 
 <!--
 **lmitchell33/lmitchell33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
