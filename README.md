@@ -8,6 +8,8 @@ I'm a recent graduate from Duquesne University in Pittsburgh, PA, where I earned
 - Internet of Things   
 - Sensor Integration
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lmitchell33&show_icons=true&theme=radical)
+
 <!--
 **lmitchell33/lmitchell33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
