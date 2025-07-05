@@ -8,10 +8,10 @@ I am a hardworking engineer passionate about building systems where hardware and
 - Internet of Things
 
 ## Tech Stack
-**Languages:** Python, C/C++, C#, MATLAB
-**Frameworks, Tools, & Middleware:** ESP-IDF, ROS 2, PyTorch, Flask, React
-**Hardware:** ESP32, Raspberry Pi, Arduino, Pixhawk  
-**DevOps:** Docker, GitHub Actions
+- **Languages:** Python, C/C++, C#, MATLAB
+- **Frameworks Tools, & Middleware:** ESP-IDF, ROS 2, PyTorch, Flask, React
+- **Hardware:** ESP32, Raspberry Pi, Arduino, Pixhawk  
+- **DevOps:** Docker, GitHub Actions
 
 <!--
 **lmitchell33/lmitchell33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
