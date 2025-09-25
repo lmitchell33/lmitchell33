@@ -7,9 +7,9 @@ I'm a Robotics (ECE concentration) graduate student at Northeastern University, 
 * **Bachelor of Arts in Computer Science** @ Duquesne University, Pittsburgh, PA (May 2025)
 
 ## Tech Stack
-**Languages:** Python, C++, C#, MATLAB, Bash, SQL  
-**Frameworks:** ROS 2, OpenCV, YOLO, TensorFlow, PyTorch, Flask
-**Hardware:** Arduino · Raspberry Pi · ESP32 · I²C · UART · FreeRTOS
+- **Languages:** Python, C++, C#, MATLAB, Bash, SQL  
+- **Frameworks:** ROS 2, OpenCV, YOLO, TensorFlow, PyTorch, Flask
+- **Hardware:** Arduino · Raspberry Pi · ESP32 · I²C · UART · FreeRTOS
 
 ## Interests & Focus
 - Robotics
