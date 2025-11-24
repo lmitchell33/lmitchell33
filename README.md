@@ -8,7 +8,7 @@ I'm a Robotics (ECE concentration) graduate student at Northeastern University, 
 
 ## Tech Stack
 - **Languages:** Python, C++, C#, MATLAB, Bash, SQL  
-- **Frameworks:** ROS 2, OpenCV, YOLO, TensorFlow, PyTorch, Flask
+- **Frameworks:** ROS 2, OpenCV, PyTorch, Flask
 - **Hardware:** Arduino · Raspberry Pi · ESP32 · I²C · UART · FreeRTOS
 
 ## Interests & Focus
