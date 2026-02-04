@@ -6,11 +6,11 @@ I'm a Robotics (ECE concentration) graduate student at Northeastern University, 
 * **Bachelor of Science in Biomedical Engineering** @ Duquesne University, Pittsburgh, PA (May 2025)
 * **Bachelor of Arts in Computer Science** @ Duquesne University, Pittsburgh, PA (May 2025)
 
-## Interests & Focus
+## Interests & Hobbies
 - Robotics
 - Automation
 - Embedded Systems
-- Internet of Things=
+- Internet of Things
 
 ## Contact
 [Email](mailto:lhmitchell1333@gmail.com) | [LinkedIn](www.linkedin.com/in/lucas-mitchell3)
