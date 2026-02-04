@@ -6,16 +6,11 @@ I'm a Robotics (ECE concentration) graduate student at Northeastern University, 
 * **Bachelor of Science in Biomedical Engineering** @ Duquesne University, Pittsburgh, PA (May 2025)
 * **Bachelor of Arts in Computer Science** @ Duquesne University, Pittsburgh, PA (May 2025)
 
-## Tech Stack
-- **Languages:** Python, C++, C#, MATLAB, Bash, SQL  
-- **Frameworks:** ROS 2, OpenCV, PyTorch, Flask
-- **Hardware:** Arduino · Raspberry Pi · ESP32 · I²C · UART · FreeRTOS
-
 ## Interests & Focus
 - Robotics
-- Embedded Systems
-- Internet of Things
 - Automation
+- Embedded Systems
+- Internet of Things=
 
 ## Contact
 [Email](mailto:lhmitchell1333@gmail.com) | [LinkedIn](www.linkedin.com/in/lucas-mitchell3)
