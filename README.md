@@ -11,6 +11,7 @@ I'm a Robotics (ECE concentration) graduate student at Northeastern University, 
 - Automation
 - Embedded Systems
 - Internet of Things
+- Machine Learning
 
 ## Contact
 [Email](mailto:lhmitchell1333@gmail.com) | [LinkedIn](www.linkedin.com/in/lucas-mitchell3)
